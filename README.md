@@ -23,11 +23,30 @@ Discover • Wishlist • Purchase • Manage Orders • Beautiful Animations �
 </p>
 
 ---
+<h1 align="center">
+
+  <a href="https://www.youtube.com/watch?v=62bIsvRcPv0">
+
+    🎥 Watch Full Project Demo on YouTube (Hit me)
+
+  </a>
+
+</h1>
+---
+
 
 # 📱 Application Preview
 
+<img width="1500" height="761" alt="Screenshot2026-07-11at6 05 28P" src="https://github.com/user-attachments/assets/75ec1b6f-9199-4444-8a4c-1133d7dc281f" />
+
+<img width="1500" height="739" alt="Screenshot2026-07-11at6 07 48P" src="https://github.com/user-attachments/assets/535a794e-243e-4174-8b0f-6de380919838" />
+
+<img width="1500" height="757" alt="Screenshot2026-07-11at6 10 57P" src="https://github.com/user-attachments/assets/1e57e8e2-3dfb-4d63-b308-e9c5e3ffaed6" />
+
+<img width="1500" height="754" alt="Screenshot2026-07-11at6 12 50P" src="https://github.com/user-attachments/assets/616b71e9-9ad7-4f70-b798-7b9682e70be0" />
  
----
+
+
 
 # ✨ About the Project
 
