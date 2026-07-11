@@ -1,7 +1,7 @@
 # 🎬 MovieCartReactHarsh
 
 <p align="center">
-  <img src="./assets/readme/banner.png" alt="MovieCartReactHarsh Banner" width="100%">
+  <img width="100" height="100" alt="ico" src="https://github.com/user-attachments/assets/899b9d82-fe8f-4bb0-9dc2-0fc1a9bad698" />
 </p>
 
 <p align="center">
@@ -26,22 +26,7 @@ Discover • Wishlist • Purchase • Manage Orders • Beautiful Animations �
 
 # 📱 Application Preview
 
-> Replace these placeholders with your screenshots.
-
-<p align="center">
-<img src="./assets/readme/home.png" width="23%">
-<img src="./assets/readme/details.png" width="23%">
-<img src="./assets/readme/cart.png" width="23%">
-<img src="./assets/readme/profile.png" width="23%">
-</p>
-
-<p align="center">
-<img src="./assets/readme/orders.png" width="23%">
-<img src="./assets/readme/payment.png" width="23%">
-<img src="./assets/readme/settings.png" width="23%">
-<img src="./assets/readme/darkmode.png" width="23%">
-</p>
-
+ 
 ---
 
 # ✨ About the Project
@@ -174,11 +159,7 @@ Enables native touch interactions including:
 ---
 
 # 🎬 Movie Experience
-
-<p align="center">
-<img src="./assets/readme/movie-details.png" width="90%">
-</p>
-
+ 
 Users can explore an immersive movie experience including:
 
 - Browse Popular Movies
@@ -200,11 +181,7 @@ Users can explore an immersive movie experience including:
 ---
 
 # 🛒 Complete Shopping Experience
-
-<p align="center">
-<img src="./assets/readme/shopping-flow.png" width="90%">
-</p>
-
+ 
 The application delivers a complete purchasing workflow.
 
 Features include:
@@ -226,11 +203,7 @@ Features include:
 ---
 
 # ❤️ Personalization
-
-<p align="center">
-<img src="./assets/readme/profile-flow.png" width="90%">
-</p>
-
+ 
 Each user has their own personalized experience.
 
 Features include:
@@ -285,11 +258,7 @@ Every user has completely isolated data.
 ---
 
 # 🎨 Premium User Experience
-
-<p align="center">
-<img src="./assets/readme/ui.png" width="90%">
-</p>
-
+ 
 Designed to feel like a premium native application.
 
 Highlights include:
@@ -396,25 +365,6 @@ Architecture follows:
 
 ✅ Expo Best Practices
 
----
-
-# 📸 Screenshots
-
-> Replace with your actual screenshots.
-
-| Home | Movie Details |
-|------|---------------|
-| ![](./assets/readme/home.png) | ![](./assets/readme/details.png) |
-
-| Cart | Payment |
-|------|----------|
-| ![](./assets/readme/cart.png) | ![](./assets/readme/payment.png) |
-
-| Orders | Profile |
-|------|-----------|
-| ![](./assets/readme/orders.png) | ![](./assets/readme/profile.png) |
-
----
 
 # 👨‍💻 Developer
 
