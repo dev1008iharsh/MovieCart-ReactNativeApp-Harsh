@@ -25,7 +25,7 @@ Discover • Wishlist • Purchase • Manage Orders • Beautiful Animations �
 ---
 <h1 align="center">
 
-  <a href="[[https://www.youtube.com/watch?v=62bIsvRcPv0](https://youtu.be/hswPsekeDz0)](https://youtu.be/hswPsekeDz0)">
+  <a href="https://youtu.be/hswPsekeDz0">
 
     🎥 Watch Full Project Demo on YouTube (Hit me)
 
