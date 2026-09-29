@@ -27,7 +27,17 @@ Discover • Wishlist • Purchase • Manage Orders • Beautiful Animations �
 
   <a href="https://youtu.be/hswPsekeDz0">
 
-    🎥 Watch Full Project Demo on YouTube (Hit me)
+    🎥 (iOS) Watch Full Application Demo on YouTube (Hit me)
+
+  </a>
+
+</h1>
+---
+<h1 align="center">
+
+  <a href="https://www.youtube.com/watch?v=J821H9jLSo4">
+
+    🎥 (Android) Watch Full Application Demo Video on YouTube (Hit me)
 
   </a>
 
